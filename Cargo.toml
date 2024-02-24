@@ -7,7 +7,7 @@ license = "MIT OR Apache-2.0"
 repository = "https://github.com/mailmebalachandran/homebrew-bsf"
 keywords = ["path", "pattern"]
 categories = ["command-line-utilities"]
-metadata = "entry code for search the file based on pattern"
+description = "entry code for search the file based on pattern"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
