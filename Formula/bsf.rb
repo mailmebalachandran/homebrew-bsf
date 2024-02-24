@@ -2,7 +2,7 @@ class Bsf < Formula
     desc "This tool search the pattern including the sub directories for the given path"
     homepage "https://github.com/mailmebalachandran/homebrew-bsf"
     url "https://github.com/mailmebalachandran/homebrew-bsf/archive/v0.1.2.tar.gz"
-    sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    sha256 "e9cb879d7378a82a07eecc775caac00bd532f14774c4ad883e968d1f016d852e"
     license "MIT OR Apache-2.0 "
   
     depends_on "rust" => :build
