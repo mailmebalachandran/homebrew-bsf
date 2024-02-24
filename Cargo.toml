@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["Balachandran mailme.balachandran@gmail.com"]
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/mailmebalachandran/homebrew-bsf"
-keywords = ["path", "pattern"]
+keywords = ["path", "pattern", "search-file"]
 categories = ["command-line-utilities"]
 description = "entry code for search the file based on pattern"
 
